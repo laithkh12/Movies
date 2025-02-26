@@ -71,4 +71,4 @@ This project uses an external API to fetch the movie data. You can replace the c
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under private use only
